@@ -17,7 +17,7 @@ services:
 
   api:
     build: .
-    container_name: "comments_rest_api"
+    container_name: "comments-rest-api"
     environment:
       DB_USERNAME: "charli"
       DB_PASSWORD: "alpha"

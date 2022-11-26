@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// initiation and startup
+// Run - initiation and startup
 func Run() error {
 	fmt.Println("starting the application")
 	return nil
